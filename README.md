@@ -1,8 +1,8 @@
-# Ladybird OS: Lightweight and Portable Operating System
-
 <div align="center"><img width="200px" height="200px" alt="Ladybird OS: Lightweight and Portable Operating System" src="logo.png.jpg" /></div>
 
 <!-- ![Ladybird OS: Lightweight and Portable Operating System](https://github.com/cleorp/ladybird/blob/main/logo.png.jpg) -->
+
+# Ladybird OS: Lightweight and Portable Operating System
 
 -------------------------------------------------------------------------------
 
